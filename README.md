@@ -18,6 +18,7 @@ For a complete list, see my [GitHub](https://github.com/NicolasBermejo?tab=repos
 |[Bank Tech Test](https://github.com/NicolasBermejo/Bank_Tech_Test)|A mock tech test to create a command line bank app. The focus was to create high quality well tested code using DRY, SRP. | Ruby, Rspec|
 | [MakersBnB](https://github.com/charlierdm/MakersBnB) | An AirBnB clone | Ruby, Rspec, PostgreSQL, Bootstrap, HTML, CSS |
 | [Acebook](https://github.com/sandyMax974/acebook-markzuckerbergisalizard) | An Facebook clone | Rails, PostgreSQL, BCrypt, Bootstrap, Capybara, Heroku, Selenium, Rake, Circle CI |
+| [Zygo](https://github.com/NicolasBermejo/Bermejo-Simulations) | A project to create a web app for french fiscal simulations | React, Heroku, CSS |
 
 ## Skills
 
